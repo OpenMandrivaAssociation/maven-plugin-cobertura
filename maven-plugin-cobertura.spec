@@ -1,6 +1,6 @@
 Name:       maven-plugin-cobertura
 Version:    2.4
-Release:    2
+Release:    4
 Summary:    Plugin providing the features of Cobertura within Maven
 
 Group:      Development/Java
