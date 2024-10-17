@@ -5,7 +5,7 @@ Summary:    Plugin providing the features of Cobertura within Maven
 
 Group:      Development/Java
 License:    ASL 2.0 and GPLv2 and GPLv2+
-URL:        http://mojo.codehaus.org/cobertura-maven-plugin/
+URL:        https://mojo.codehaus.org/cobertura-maven-plugin/
 Source0:    http://repo2.maven.org/maven2/org/codehaus/mojo/cobertura-maven-plugin/2.4/cobertura-maven-plugin-%{version}-source-release.zip
 # Fix compile with our doxia.
 Patch0:     maven-plugin-cobertura-2.3-SiteRenderer.patch
